@@ -16,12 +16,10 @@ npm start
 
 ## Features
 
-The assets were taken from http://www.fay.com/it-it/
+
 
 Components written with Hooks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Styled with [Ant-Design](https://ant.design/) and [Styled-Components](https://www.styled-components.com/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 
